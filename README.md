@@ -2,8 +2,10 @@
 
 1.- Clonar el repositorio
 
-2.- Ir al directorio donde estan los archivos desde el powershell
+2.- Abrir Docker Desktop
 
-3.- Ejecutar el comando docker compose up
+3.- Ir al directorio donde estan los archivos desde el powershell
 
-4.- Esperar y listo.
+4.- Ejecutar el comando docker compose up
+
+5.- Esperar y listo.
