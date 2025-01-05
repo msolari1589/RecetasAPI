@@ -8,4 +8,4 @@
 
 4.- Ejecutar el comando docker compose up
 
-5.- Esperar y listo.
+5.- Ingresar al swagger via http://localhost:8080/swagger/index.html
